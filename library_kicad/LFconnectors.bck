@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Tue 06 Dec 2011 19:12:51 MSK
+#
+$CMP DB25
+K CONN
+$ENDCMP
+#
+$CMP DB9
+K CONN
+$ENDCMP
+#
+#End Doc Library

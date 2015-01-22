@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 23 Mar 2014 18:32:56 MSK
+#
+$CMP RESISTOR
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_2W
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_5W
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_TRIMMING
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_VARIABLE
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+#End Doc Library
