@@ -1,1 +1,1 @@
-# kicad-components
+# Компоненты для KiCAD
