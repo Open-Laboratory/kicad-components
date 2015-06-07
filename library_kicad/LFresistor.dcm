@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sun 23 Mar 2014 18:32:56 MSK
+EESchema-DOCLIB  Version 2.0  Date: Sat 30 May 2015 20:35:19 MSK
 #
 $CMP RESISTOR
 D Ampli Op 3 state out
@@ -25,6 +25,12 @@ F AmpliOp.sch
 $ENDCMP
 #
 $CMP RESISTOR_VARIABLE
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP VARISTOR
 D Ampli Op 3 state out
 K AmpliOp
 F AmpliOp.sch
