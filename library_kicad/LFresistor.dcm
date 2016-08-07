@@ -1,6 +1,30 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 09 Dec 2015 18:01:52 MSK
+EESchema-DOCLIB  Version 2.0
 #
 $CMP RESISTOR
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_0_062W
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_0_125W
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_0_25W
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP RESISTOR_0_5W
 D Ampli Op 3 state out
 K AmpliOp
 F AmpliOp.sch
