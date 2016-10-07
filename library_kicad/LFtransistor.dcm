@@ -1,15 +1,3 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP BSS138
-D Ampli Op 3 state out
-K AmpliOp
-F AmpliOp.sch
-$ENDCMP
-#
-$CMP IRLZ44
-D Ampli Op 3 state out
-K AmpliOp
-F AmpliOp.sch
-$ENDCMP
-#
 #End Doc Library
