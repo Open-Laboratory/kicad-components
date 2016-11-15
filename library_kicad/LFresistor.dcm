@@ -30,6 +30,12 @@ K AmpliOp
 F AmpliOp.sch
 $ENDCMP
 #
+$CMP RESISTOR_10W
+D Ampli Op 3 state out
+K AmpliOp
+F AmpliOp.sch
+$ENDCMP
+#
 $CMP RESISTOR_1W
 D Ampli Op 3 state out
 K AmpliOp
