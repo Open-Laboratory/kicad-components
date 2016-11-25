@@ -1,9 +1,9 @@
-(module SIM900 (layer F.Cu) (tedit 58370F25)
+(module SIM900D (layer F.Cu) (tedit 58383FED)
   (descr 47)
   (fp_text reference REF** (at 15.24 -3.302) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.25)))
   )
-  (fp_text value SIM900 (at 17.018 17.78) (layer F.Fab) hide
+  (fp_text value SIM900D (at 17.018 17.78) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.25)))
   )
   (fp_line (start 34.036 34.544) (end 34.036 -1.524) (layer F.SilkS) (width 0.25))
