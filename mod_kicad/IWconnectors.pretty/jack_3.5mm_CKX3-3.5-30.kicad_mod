@@ -1,4 +1,4 @@
-(module jack_3.5mm_CKX3-3.5-30 (layer F.Cu) (tedit 58DBC49E)
+(module jack_3.5mm_CKX3-3.5-30 (layer F.Cu) (tedit 5947ACA7)
   (descr "module 1 pin (ou trou mecanique de percage)")
   (tags "CONN JACK")
   (fp_text reference J1 (at 0 -5.842) (layer F.SilkS)
@@ -15,8 +15,8 @@
   (pad 3 thru_hole oval (at 1 -2.4) (size 2.2 2.2) (drill oval 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole oval (at 6.3 2.4) (size 2.2 2.2) (drill oval 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at -0.8 2.4) (size 2.2 2.2) (drill oval 1.2) (layers *.Cu *.Mask F.SilkS))
-  (pad "" thru_hole circle (at 0 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
-  (pad "" thru_hole circle (at 6 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at -0.8 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
+  (pad "" thru_hole circle (at 5 0) (size 1.5 1.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (model connectors/POWER_21.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.8 0.8 0.8))
