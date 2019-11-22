@@ -1,10 +1,36 @@
-EESchema-LIBRARY Version 2.3  Date: Wed 27 Jul 2011 19:38:06 MSD
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# alps_ec11e_sw
+#
+DEF alps_ec11e_sw BR 0 40 Y Y 1 F N
+F0 "BR" 500 300 60 H V C CNN
+F1 "alps_ec11e_sw" 500 200 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 500 25 60 0 0 0 X/Y  Normal 0 C C
+S 200 100 800 -300 0 0 0 N
+P 2 0 0 0  700 -150  650 -50 N
+P 3 0 0 0  700 -150  700 -200  800 -200 N
+P 3 0 0 0  700 -50  700 0  800 0 N
+P 2 0 1 0  400 100  400 -300 N
+P 2 0 1 0  600 100  600 -300 N
+X A 1 0 0 200 R 40 40 1 1 P
+X C 2 0 -100 200 R 40 40 1 1 P
+X B 3 0 -200 200 R 40 40 1 1 P
+X ~ 4 1000 -200 200 L 40 40 1 1 P
+X ~ 5 1000 0 200 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
 #
 # button_smd_1
 #
 DEF button_smd_1 S 0 40 Y Y 1 F N
 F0 "S" 350 400 60 H V C CNN
 F1 "button_smd_1" 350 300 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
 DRAW
 P 2 0 1 0  100 0  250 0 N
 P 2 0 1 0  150 -300  200 -300 N
