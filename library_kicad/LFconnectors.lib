@@ -1982,4 +1982,121 @@ X ~ 5 0 -400 0 R 61 61 1 1 P
 ENDDRAW
 ENDDEF
 #
+# connector_6pin_gost
+#
+DEF connector_6pin_gost X 0 40 N N 1 F N
+F0 "X" 275 300 71 H V L BNN
+F1 "connector_6pin_gost" -50 200 71 H V L BNN
+F2 "" 350 150 50 H I C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 150 0 60 0 0 0 1 Normal 0 C C
+T 0 150 -100 60 0 0 0 2 Normal 0 C C
+T 0 150 -200 60 0 0 0 3 Normal 0 C C
+T 0 150 -300 60 0 0 0 4 Normal 0 C C
+T 0 150 -400 60 0 0 0 5 Normal 0 C C
+T 0 150 -500 60 0 0 0 6 Normal 0 C C
+T 0 150 100 60 0 0 0 Конт. Normal 0 C C
+T 0 525 100 60 0 0 0 Цепь Normal 0 C C
+P 2 0 0 0 0 -550 750 -550 N
+P 2 0 0 0 0 -450 750 -450 N
+P 2 0 0 0 0 -350 750 -350 N
+P 2 0 0 0 0 -250 750 -250 N
+P 2 0 0 0 0 -150 750 -150 N
+P 2 0 0 0 0 50 750 50 N
+P 2 0 0 0 0 150 0 -550 N
+P 2 0 0 0 300 150 300 -550 N
+P 2 0 0 0 750 -50 0 -50 N
+P 2 0 0 0 750 150 750 -550 N
+P 2 0 1 0 0 150 750 150 N
+X ~ 1 0 0 0 R 61 61 1 1 P
+X ~ 2 0 -100 0 R 61 61 1 1 P
+X ~ 3 0 -200 0 R 61 61 1 1 P
+X ~ 4 0 -300 0 R 61 61 1 1 P
+X ~ 5 0 -400 0 R 61 61 1 1 P
+X ~ 6 0 -500 0 R 61 61 1 1 P
+ENDDRAW
+ENDDEF
+#
+# connector_7pin_gost
+#
+DEF connector_7pin_gost X 0 40 N N 1 F N
+F0 "X" 275 300 71 H V L BNN
+F1 "connector_7pin_gost" -50 200 71 H V L BNN
+F2 "" 350 150 50 H I C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 150 0 60 0 0 0 1 Normal 0 C C
+T 0 150 -100 60 0 0 0 2 Normal 0 C C
+T 0 150 -200 60 0 0 0 3 Normal 0 C C
+T 0 150 -300 60 0 0 0 4 Normal 0 C C
+T 0 150 -400 60 0 0 0 5 Normal 0 C C
+T 0 150 -500 60 0 0 0 6 Normal 0 C C
+T 0 150 -600 60 0 0 0 7 Normal 0 C C
+T 0 150 100 60 0 0 0 Конт. Normal 0 C C
+T 0 525 100 60 0 0 0 Цепь Normal 0 C C
+P 2 0 0 0 0 -650 750 -650 N
+P 2 0 0 0 0 -550 750 -550 N
+P 2 0 0 0 0 -450 750 -450 N
+P 2 0 0 0 0 -350 750 -350 N
+P 2 0 0 0 0 -250 750 -250 N
+P 2 0 0 0 0 -150 750 -150 N
+P 2 0 0 0 0 50 750 50 N
+P 2 0 0 0 0 150 0 -650 N
+P 2 0 0 0 300 150 300 -650 N
+P 2 0 0 0 750 -50 0 -50 N
+P 2 0 0 0 750 150 750 -650 N
+P 2 0 1 0 0 150 750 150 N
+X ~ 1 0 0 0 R 61 61 1 1 P
+X ~ 2 0 -100 0 R 61 61 1 1 P
+X ~ 3 0 -200 0 R 61 61 1 1 P
+X ~ 4 0 -300 0 R 61 61 1 1 P
+X ~ 5 0 -400 0 R 61 61 1 1 P
+X ~ 6 0 -500 0 R 61 61 1 1 P
+X ~ 7 0 -600 0 R 61 61 1 1 P
+ENDDRAW
+ENDDEF
+#
+# connector_8pin_gost
+#
+DEF connector_8pin_gost X 0 40 N N 1 F N
+F0 "X" 275 300 71 H V L BNN
+F1 "connector_8pin_gost" -50 200 71 H V L BNN
+F2 "" 350 150 50 H I C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 150 0 60 0 0 0 1 Normal 0 C C
+T 0 150 -100 60 0 0 0 2 Normal 0 C C
+T 0 150 -200 60 0 0 0 3 Normal 0 C C
+T 0 150 -300 60 0 0 0 4 Normal 0 C C
+T 0 150 -400 60 0 0 0 5 Normal 0 C C
+T 0 150 -500 60 0 0 0 6 Normal 0 C C
+T 0 150 -600 60 0 0 0 7 Normal 0 C C
+T 0 150 -700 60 0 0 0 8 Normal 0 C C
+T 0 150 100 60 0 0 0 Конт. Normal 0 C C
+T 0 525 100 60 0 0 0 Цепь Normal 0 C C
+P 2 0 0 0 0 -750 750 -750 N
+P 2 0 0 0 0 -650 750 -650 N
+P 2 0 0 0 0 -550 750 -550 N
+P 2 0 0 0 0 -450 750 -450 N
+P 2 0 0 0 0 -350 750 -350 N
+P 2 0 0 0 0 -250 750 -250 N
+P 2 0 0 0 0 -150 750 -150 N
+P 2 0 0 0 0 50 750 50 N
+P 2 0 0 0 0 150 0 -750 N
+P 2 0 0 0 300 150 300 -750 N
+P 2 0 0 0 750 -50 0 -50 N
+P 2 0 0 0 750 150 750 -750 N
+P 2 0 1 0 0 150 750 150 N
+X ~ 1 0 0 0 R 61 61 1 1 P
+X ~ 2 0 -100 0 R 61 61 1 1 P
+X ~ 3 0 -200 0 R 61 61 1 1 P
+X ~ 4 0 -300 0 R 61 61 1 1 P
+X ~ 5 0 -400 0 R 61 61 1 1 P
+X ~ 6 0 -500 0 R 61 61 1 1 P
+X ~ 7 0 -600 0 R 61 61 1 1 P
+X ~ 8 0 -700 0 R 61 61 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library
