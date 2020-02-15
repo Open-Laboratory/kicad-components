@@ -1,0 +1,18 @@
+(module SPEAKER_ZP-25 (layer F.Cu) (tedit 5E47F053)
+  (descr "8 pins DIL package, elliptical pads")
+  (tags DIL)
+  (fp_text reference BA (at -1.27 -7.62) (layer F.SilkS)
+    (effects (font (size 1.778 1.143) (thickness 0.28575)))
+  )
+  (fp_text value SPEAKER_ZP-25 (at 0 5.08) (layer F.SilkS) hide
+    (effects (font (size 1.778 1.016) (thickness 0.254)))
+  )
+  (fp_circle (center 0 0) (end 11 0) (layer F.SilkS) (width 0.2))
+  (pad 1 thru_hole rect (at -5 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 5 0) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
+  (model dil/dil_8.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
