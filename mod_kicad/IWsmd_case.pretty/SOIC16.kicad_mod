@@ -1,9 +1,9 @@
-(module SOIC16 (layer F.Cu) (tedit 4CEE834F)
+(module SOIC16 (layer F.Cu) (tedit 5E7E18C8)
   (descr "Module CMS SOJ 16 pins large")
   (tags "CMS SOJ")
   (attr smd)
   (fp_text reference SOIC16 (at 0.508 -5.08) (layer F.SilkS)
-    (effects (font (size 1.016 1.016) (thickness 0.2032)))
+    (effects (font (size 0.762 0.762) (thickness 0.127)))
   )
   (fp_text value VAL** (at 0.762 5.207) (layer F.SilkS) hide
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
