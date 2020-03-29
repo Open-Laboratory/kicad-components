@@ -1,4 +1,4 @@
-(module KC168B (layer F.Cu) (tedit 4C73D8F8)
+(module KC168B (layer F.Cu) (tedit 5E80CA3C)
   (descr "Condensateur e = 1 pas")
   (tags C)
   (fp_text reference KC168B (at 1.905 -3.81) (layer F.SilkS)
@@ -11,8 +11,8 @@
   (fp_line (start -1.397 -1.651) (end -1.397 1.651) (layer F.SilkS) (width 0.127))
   (fp_line (start -1.397 1.651) (end 6.604 1.651) (layer F.SilkS) (width 0.127))
   (fp_line (start -1.397 -1.651) (end 6.604 -1.651) (layer F.SilkS) (width 0.127))
-  (pad 1 thru_hole circle (at 0 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 5.00126 0) (size 1.50114 1.50114) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 0 0) (size 1.50114 1.50114) (drill 0.8) (layers *.Cu *.Mask))
+  (pad 2 thru_hole circle (at 5.00126 0) (size 1.50114 1.50114) (drill 0.8) (layers *.Cu *.Mask))
   (model discret/capa_1_pas.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
