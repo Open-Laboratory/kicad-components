@@ -1,4 +1,4 @@
-(module Q_49U3HMS& (layer F.Cu) (tedit 613A2C21)
+(module HC-49U (layer F.Cu) (tedit 613A2DB0)
   (fp_text reference HC-49U (at 0 -3.556) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
