@@ -1,11 +1,15 @@
-(module 1_pin (layer F.Cu) (tedit 60198EA3)
+(footprint "1_pin" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
   (descr "module 1 pin (ou trou mecanique de percage)")
-  (tags DEV)
-  (fp_text reference 1_PIN (at 0 -3.048) (layer F.SilkS) hide
-    (effects (font (size 0.50038 0.50038) (thickness 0.12446)))
+  (tags "DEV")
+  (attr through_hole)
+  (fp_text reference "1_PIN" (at 0 -3.048) (layer "F.SilkS") hide
+      (effects (font (size 0.50038 0.50038) (thickness 0.12446)))
+    (tstamp 5584e1d5-725c-4da4-9713-650472f35eb0)
   )
-  (fp_text value P*** (at 0 -1.524) (layer F.SilkS) hide
-    (effects (font (size 1.016 1.016) (thickness 0.254)))
+  (fp_text value "P***" (at 0 -1.524) (layer "F.SilkS") hide
+      (effects (font (size 1.016 1.016) (thickness 0.254)))
+    (tstamp 56d74465-abfe-4515-91c6-e95ea06ad37e)
   )
-  (pad 1 thru_hole circle (at 0 0) (size 1.80086 1.80086) (drill 1.00076) (layers *.Cu *.Mask))
+  (pad "1" thru_hole circle (at 0 0) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp 7ffb4039-a872-4f7d-92c5-b58f26a18ed4))
 )
