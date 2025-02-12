@@ -3,12 +3,12 @@
   (descr "module 1 pin (ou trou mecanique de percage)")
   (tags "DEV")
   (attr through_hole)
-  (fp_text reference "DA" (at 8.128 -2.54) (layer "F.SilkS")
-      (effects (font (size 1.016 1.016) (thickness 0.2) bold))
+  (fp_text reference "DA" (at 8.128 -2.286) (layer "F.SilkS")
+      (effects (font (size 1 0.7) (thickness 0.1)))
     (tstamp dc5e4dc0-3c32-4756-b6b5-32075c4c6305)
   )
-  (fp_text value "SIP-7_4pin" (at 7.62 2.286) (layer "F.SilkS") hide
-      (effects (font (size 1.016 1.016) (thickness 0.254)))
+  (fp_text value "SIP-7_4pin" (at 7.62 5.588) (layer "F.SilkS") hide
+      (effects (font (size 1 0.7) (thickness 0.1)))
     (tstamp 46fbf74b-9718-4dc9-b084-ffe200901ec0)
   )
   (fp_line (start -2.032 -1.27) (end -2.032 4.572)

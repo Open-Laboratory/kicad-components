@@ -3,12 +3,12 @@
   (descr "24 pins DIL package, elliptical pads")
   (tags "DIL")
   (attr through_hole)
-  (fp_text reference "DA" (at 0 -6.985) (layer "F.SilkS")
-      (effects (font (size 1.5 1.05) (thickness 0.15)))
+  (fp_text reference "DA" (at 0 -6.604) (layer "F.SilkS")
+      (effects (font (size 1 0.7) (thickness 0.1)))
     (tstamp 715fcecb-b186-4e91-a2bb-d3c81da45793)
   )
-  (fp_text value "DIP_24" (at 0 6.985) (layer "F.SilkS") hide
-      (effects (font (size 1.5 1.05) (thickness 0.15)))
+  (fp_text value "DIP_24" (at 0 6.731) (layer "F.SilkS") hide
+      (effects (font (size 1 0.7) (thickness 0.1)))
     (tstamp 8ca730ce-c762-4a5e-9fb6-0c276c41f84c)
   )
   (fp_line (start -16.51 -5.715) (end 16.51 -5.715)
