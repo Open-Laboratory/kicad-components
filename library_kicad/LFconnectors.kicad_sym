@@ -19403,8 +19403,24 @@
 					)
 				)
 			)
-			(text "VCONN"
+			(text "CC2"
 				(at 12.954 -40.64 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "D+"
+				(at 12.954 -43.18 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(text "D-"
+				(at 12.954 -45.72 0)
 				(effects
 					(font
 						(size 1.524 1.524)
